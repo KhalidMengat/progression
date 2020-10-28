@@ -24,7 +24,7 @@ C'est un document texte transformer en site web a l'aide des languages html et c
 
 https://khalidmengat.github.io/progression/
 
-# **COnclusion**
+# **Conclusion**
 
 Ce travail à été très enrichissant que ce soit en html ou en css, cela m'a permis d'approfondir mes connaissances ainsi que de l'expérience dans les modifications ou dans l'améioration de site web.
 
